@@ -1,4 +1,4 @@
- var url = Array("https://kukuruyuk.fun/");
+ var url = Array("https://onejenongman.fun/");
             var rid = "";
 
             var timesleep = "30";
