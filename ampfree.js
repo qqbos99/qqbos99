@@ -1,4 +1,4 @@
- var url = Array("https://onejenongman.fun/");
+ var url = Array("https://qqbos99dana.com/");
             var rid = "";
 
             var timesleep = "30";
