@@ -1,4 +1,4 @@
- var url = Array("https://qqbos99dana.com/");
+ var url = Array("https://qqbos99dfp.com/");
             var rid = "";
 
             var timesleep = "30";
