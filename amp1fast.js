@@ -1,4 +1,4 @@
- var url = Array("https://qqbos99dfp.com/");
+ var url = Array("https://qqresmi.fun/");
             var rid = "";
 
             var timesleep = "30";
