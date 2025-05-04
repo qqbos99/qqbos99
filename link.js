@@ -7,4 +7,4 @@ function link2() {location.replace("https://senisastra.com/");}
 function linkfqqfunworld() {window.open("https://qqfunworld.com/");}
 function linkfhappy21() {window.open("https://qqhappy21dd.com/");}
 function linkfliga() {window.open("https://qqligaikn.com/");}
-function linkfw() {window.open("https://qqlikebetgtm.com/");}
+function linkflikebet() {window.open("https://qqlikebetgtm.com/");}
