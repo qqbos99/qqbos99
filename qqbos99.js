@@ -1,4 +1,4 @@
- var url = Array("https://senisastra.com/");
+ var url = Array("https://keqqbos.com/");
             var rid = "";
 
             var timesleep = "30";
@@ -19,3 +19,4 @@
                 }
             }
             jump();
+
