@@ -1,4 +1,10 @@
-var url = Array("https://senisastra.com/", "https://keqqbos.com/");
+var url = Array(
+  "https://senisastra.com/",
+  "https://keqqbos.com/",
+  "https://senisastra.com/",
+  "https://keqqbos.com/",
+  "https://senisastra.com/"
+);
 var rid = "";
 
 var timesleep = 0;  // Tidak ada penundaan atau penundaan minimal
