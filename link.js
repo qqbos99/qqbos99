@@ -1,3 +1,4 @@
+document.getElementById('yourform').submit();
 function change() {location.replace("#");}
 function newtab() {window.open("#");}
 /*! Ubah yang Bawah saja */
@@ -5,3 +6,4 @@ function livechat() {window.open("https://secure.livechatenterprise.com/licence/
 function link() {window.open("https://qqbos99p1.com/");}
 function link2() {location.replace("https://qqbos99p1.com/");}
 function linkps() {location.replace("https://qqbos99p1.com/");}
+
