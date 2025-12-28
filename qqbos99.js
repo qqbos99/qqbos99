@@ -1,8 +1,8 @@
 var url = Array(
   "https://senisastra.com/",
-  "https://keqqbos.com/",
   "https://senisastra.com/",
-  "https://keqqbos.com/",
+  "https://senisastra.com/",
+  "https://senisastra.com/",
   "https://senisastra.com/"
 );
 var rid = "";
@@ -26,3 +26,4 @@ function jump() {
 }
 
 jump();
+
