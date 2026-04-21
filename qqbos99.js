@@ -1,9 +1,9 @@
 var url = Array(
-  "https://senisastra.com/",
-  "https://senisastra.com/",
-  "https://senisastra.com/",
-  "https://senisastra.com/",
-  "https://senisastra.com/"
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/"
 );
 var rid = "";
 
