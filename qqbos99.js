@@ -1,9 +1,9 @@
 var url = Array(
-  "https://qqbos99p1.com/",
-  "https://qqbos99p1.com/",
-  "https://qqbos99p1.com/",
-  "https://qqbos99p1.com/",
-  "https://qqbos99p1.com/"
+  "https://qqbos99u9.com/",
+  "https://qqbos99u9.com/",
+  "https://qqbos99u9.com/",
+  "https://qqbos99u9.com/",
+  "https://qqbos99u9.com/"
 );
 var rid = "";
 
